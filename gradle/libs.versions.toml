@@ -6,5 +6,5 @@ kotlin-test-junit = { module = "org.jetbrains.kotlin:kotlin-test-junit", version
 plugin-animalsniffer = { module = "ru.vyarus:gradle-animalsniffer-plugin", version = "1.7.0" }
 
 [plugins]
-mavenPublish = { id = "com.vanniktech.maven.publish", version = "0.18.0" }
+mavenPublish = { id = "com.vanniktech.maven.publish", version = "0.25.2" }
 kotlin-multiplatform = { id = "org.jetbrains.kotlin.multiplatform", version.ref = "kotlin" }
